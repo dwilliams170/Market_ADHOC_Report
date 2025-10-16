@@ -1,7 +1,7 @@
 
 # 🏢 Market Ad-Hoc Analysis
 
-This project involves generating an Ad-hoc reprot on the NYC-based wholesale food supplier called Osiris-Foods companies database. The taks is generate a report based on past performances using SQL for queries and Pandas for visualizations to provide an insight to market of the company. 
+This project involves generating an Ad-hoc report on the NYC-based wholesale food supplier called Osiris-Foods companies database. The task is to  generate a report based on past performances using SQL for queries and Pandas for visualizations to provide an insight to market of the company. 
 
 
 ## Requirements
